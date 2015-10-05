@@ -1,0 +1,9 @@
+{
+	"name": "airplanemap",
+	"version": "0.0.1",
+	"description" : "Airplane map for Real time Baggage Retireval",
+	"dependencies": {
+		"socket.io": "~1.0",
+		"mime": "~1.3.4 "
+	}
+}
